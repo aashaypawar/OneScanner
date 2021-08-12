@@ -1,0 +1,2 @@
+rootProject.name = "OneScanner"
+include ':app'
